@@ -1,0 +1,2 @@
+# Scrapycoco
+delete after use
